@@ -6,6 +6,7 @@ The course will be using JupyterLab Notebooks to support statistical concepts fo
 Click on the BinderHub launch here for a cloud service that allows users to share reproducible and interactive computing environments from code repositories. 
 
 
+https://mybinder.org/v2/gh/Statistical-Methods-for-Engineering/Special-GitHub-Site-Part-7-Example-Pressure-Density/HEAD
 
 
 
