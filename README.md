@@ -1,4 +1,4 @@
-# Special GitHub Site Part 8, Module 7 SLR Pressure Density Example
+# Special GitHub Site Part 7, Module 7 SLR Pressure Density Example
 # Introductory-Statistical-Methods-for-Biomedical-Engineering
 
 The course will be using JupyterLab Notebooks to support statistical concepts for Introductory Statistical Methods for Engineering. This is a special repository for the Part 7 SLR Pressure Density Exaample.  
